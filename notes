@@ -1,0 +1,17 @@
+src/
+├── components/          # Reusable UI pieces
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── TripCard.jsx
+│   ├── BookingModal.jsx
+│   └── Footer.jsx
+├── pages/               # Main pages
+│   ├── Home.jsx
+│   ├── Trips.jsx
+│   ├── TripDetail.jsx
+│   └── Booking.jsx
+├── assets/              # Images (safari animals, landscapes)
+├── hooks/               # Custom hooks
+├── utils/               # Helper functions
+├── data/                # Mock trip data (later connect to backend)
+└── App.jsx
